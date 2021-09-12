@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "python.defaultInterpreterPath": //INSERT INTERPRTER FOR ENVRIONMENT HERE
+    "python.pipenvPath": //INSERT ACTIVATION FILE PATH HERE,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true
+}
